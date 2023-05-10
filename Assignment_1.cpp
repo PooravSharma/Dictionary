@@ -19,7 +19,7 @@ struct Word {
 
 void TextFileReader(string file);
 void searchWord();
-void threeZZZFinder();
+void moreZZZFinder();
 void addWord();
 int inputCheck(int value);
 string capitalRemover(string word);
